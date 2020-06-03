@@ -1,0 +1,22 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "cheerio": "^1.0.0-rc.3",
+    "consolidate": "^0.15.1",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "iconv-lite": "^0.5.1",
+    "moment": "^2.26.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
